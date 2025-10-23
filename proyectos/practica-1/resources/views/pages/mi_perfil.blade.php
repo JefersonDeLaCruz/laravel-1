@@ -14,5 +14,8 @@
 @section('content')
 
 
-<h1>contenido de la pagina perfil</h1>
+<x-card-user nombre="Suag" descripcion="avla q jopa">
+</x-card-user>
 @endsection
+
+
